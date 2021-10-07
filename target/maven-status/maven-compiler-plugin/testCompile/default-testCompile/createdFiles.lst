@@ -1,0 +1,5 @@
+com/test/mockito/PowerMockitoIntegrationExample.class
+com/test/mockito/PowerMockitoStubPrivateMethodExample.class
+com/test/mockito/PowerMockitoVerifyPrivateMethodExample.class
+com/test/mockito/PowerMockitoStaticMethodExample.class
+com/test/mockito/PowerMockitoStaticVoidMethodExample.class
